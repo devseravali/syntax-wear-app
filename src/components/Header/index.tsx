@@ -1,7 +1,7 @@
-import Logo from '@/assets/images/logo.png';
-import IconUser from '@/assets/images/icon-user.png';
-import IconAbout from '@/assets/images/icon-about.png';
-import IconCart from '@/assets/images/icon-cart.png';
+import Logo from '../../assets/images/logo.png';
+import IconUser from '../../assets/images/icon-user.png';
+import IconAbout from '../../assets/images/icon-about.png';
+import IconCart from '../../assets/images/icon-cart.png';
 
 export const Header = () => {
   return (
@@ -52,7 +52,6 @@ export const Header = () => {
         </div>
         <h1></h1>
       </header>
-      name
     </div>
   );
 };
